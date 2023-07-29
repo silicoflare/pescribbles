@@ -1,0 +1,11 @@
+input: .
+output: pescribbles
+url: https://pescribbles.pages.dev/
+branding:
+  title: PEScribbles
+  label: Guide
+links:
+- text: Introduction
+  link: /
+footer:
+  copyright: "&copy; Copyright {{ year }}, Team PEScribbles."
